@@ -1,3 +1,3 @@
-mod 'puupet/nginx'
-mod 'puppetlabs/stlib'
+mod 'puppet/nginx'
+mod 'puppetlabs/stdlib'
 mod 'puppetlabs/concat'
